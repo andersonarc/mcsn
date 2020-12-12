@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Meson: Build Project",
+			"options": {
+				"cwd": "/home/anderson/src/native/libcpacket/build"
+			},
+			"command": "meson compile"
+		}
+	]
+}
