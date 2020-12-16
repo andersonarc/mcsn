@@ -6,7 +6,10 @@
         "ranges": "c",
         "hash_map": "c",
         "initializer_list": "c",
-        "utility": "c"
+        "utility": "c",
+        "system_error": "cpp",
+        "cstring": "c",
+        "mcsn.h": "c"
     },
     "meson.builddir": "/home/anderson/src/native/libcpacket/build",
     "meson.configureLaunchJson": true

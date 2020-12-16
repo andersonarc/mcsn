@@ -1,0 +1,6 @@
+[submodule "src/mcpacket"]
+	path = src/mcpacket
+	url = https://github.com/andersonarc/mcpacket.git
+[submodule "src/csafe"]
+	path = src/csafe
+	url = https://github.com/andersonarc/csafe.git

@@ -1,1 +1,0 @@
-minecraft-data>=2.70.1
